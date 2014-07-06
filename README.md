@@ -21,6 +21,8 @@ This is a fork of [Angular Seed](https://github.com/angular/angular-seed) but wi
         app.js          --> application
         controllers.js  --> application controllers
         bootstrap.js    --> fires off the require app
+        main.js         --> data-main for require, contains paths,
+        routes.js       --> angular.js routes 
         lib/            --> angular and 3rd party javascript libraries
           require.js    --> require js
           domready.js   --> require script to ensure dom is ready
